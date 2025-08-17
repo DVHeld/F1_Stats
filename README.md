@@ -6,7 +6,7 @@ It uses this data from Kaggle: https://www.kaggle.com/datasets/rohanrao/formula-
 
 Some screenshots:
 
-![Main menu](https://github.com/DVHeld/F1_Stats/blob/main/img/Menu00.png?raw=true)
+![Menu](https://github.com/DVHeld/F1_Stats/blob/main/img/Menu00.png?raw=true)
 
 ![Constructors - Drivers report](https://github.com/DVHeld/F1_Stats/blob/main/img/ConstructorsDrivers00.png?raw=true)
 
